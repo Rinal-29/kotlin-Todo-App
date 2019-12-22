@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="add_new_task_here">Add New Task Here</string>
+    <string name="save">Save</string>
+    <string name="complete">Complete Task ?</string>
+    <string name="update_task_here">Update Task Here</string>
+    <string name="delete">delete</string>
+    <string name="save_changes">Save Changes</string>
+</resources>
